@@ -13,3 +13,19 @@ Makefile.in
 Makefile
 *.log
 
+*.sdf
+*.suo
+*.vcxproj.user
+*.filters
+*.opensdf
+*.vcxproj.filters
+*.rar
+build
+build/
+ipch
+ipch/
+Debug
+Debug/
+Release
+Release/
+
