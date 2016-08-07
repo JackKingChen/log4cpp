@@ -69,7 +69,7 @@
       <CompileAs>Default</CompileAs>
     </ClCompile>
     <Link>
-      <OutputFile>.\Debug/testRollingFileAppender.exe</OutputFile>
+      <OutputFile>..\output\$(Configuration)\testRollingFileAppender.exe</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <ProgramDatabaseFile>.\Debug/testRollingFileAppender.pdb</ProgramDatabaseFile>

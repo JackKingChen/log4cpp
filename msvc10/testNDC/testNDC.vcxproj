@@ -70,7 +70,7 @@
       <CompileAs>Default</CompileAs>
     </ClCompile>
     <Link>
-      <OutputFile>.\Release/testNDC.exe</OutputFile>
+      <OutputFile>..\output\$(Configuration)\testNDC.exe</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <ProgramDatabaseFile>.\Release/testNDC.pdb</ProgramDatabaseFile>
       <SubSystem>Console</SubSystem>
@@ -106,7 +106,7 @@
       <CompileAs>Default</CompileAs>
     </ClCompile>
     <Link>
-      <OutputFile>.\Debug/testNDC.exe</OutputFile>
+      <OutputFile>..\output\$(Configuration)\testNDC.exe</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <ProgramDatabaseFile>.\Debug/testNDC.pdb</ProgramDatabaseFile>
