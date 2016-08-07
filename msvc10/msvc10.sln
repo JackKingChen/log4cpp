@@ -18,6 +18,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testPattern", "testPattern\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testPropConfig", "testPropConfig\testPropConfig.vcxproj", "{86C30499-C6FC-D8B4-B0BD-0ACA1D59B431}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "unitest", "unitest\unitest.vcxproj", "{C4153B21-4C1F-4B42-9D70-C3C31D75BDF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug with Boost|Win32 = Debug with Boost|Win32
@@ -76,6 +78,14 @@ Global
 		{86C30499-C6FC-D8B4-B0BD-0ACA1D59B431}.Release with Boost|Win32.ActiveCfg = Release|Win32
 		{86C30499-C6FC-D8B4-B0BD-0ACA1D59B431}.Release with Boost|Win32.Build.0 = Release|Win32
 		{86C30499-C6FC-D8B4-B0BD-0ACA1D59B431}.Release|Win32.ActiveCfg = Release|Win32
+		{C4153B21-4C1F-4B42-9D70-C3C31D75BDF3}.Debug with Boost|Win32.ActiveCfg = Debug|Win32
+		{C4153B21-4C1F-4B42-9D70-C3C31D75BDF3}.Debug with Boost|Win32.Build.0 = Debug|Win32
+		{C4153B21-4C1F-4B42-9D70-C3C31D75BDF3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C4153B21-4C1F-4B42-9D70-C3C31D75BDF3}.Debug|Win32.Build.0 = Debug|Win32
+		{C4153B21-4C1F-4B42-9D70-C3C31D75BDF3}.Release with Boost|Win32.ActiveCfg = Release|Win32
+		{C4153B21-4C1F-4B42-9D70-C3C31D75BDF3}.Release with Boost|Win32.Build.0 = Release|Win32
+		{C4153B21-4C1F-4B42-9D70-C3C31D75BDF3}.Release|Win32.ActiveCfg = Release|Win32
+		{C4153B21-4C1F-4B42-9D70-C3C31D75BDF3}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
